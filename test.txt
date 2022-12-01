@@ -1,0 +1,3 @@
+git add .     <-- dodaje plik
+git commit -m "" <-- co ten plik robi opis
+git push <-- pcham do neta
