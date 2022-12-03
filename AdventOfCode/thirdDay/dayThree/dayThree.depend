@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670106072 source:c:\users\jakub\desktop\advent\adventofcode\thirdday\daythree\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<fstream>
+
