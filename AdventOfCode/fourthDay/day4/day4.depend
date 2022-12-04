@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670151358 source:c:\users\jakub\desktop\advent\adventofcode\fourthday\day4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
